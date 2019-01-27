@@ -9,9 +9,9 @@ def item_in_list(to_check, the_list):
           return print("That item is in your list!")
     return print("That item is not in your list!!!")
 
-item_in_list("squash", list_1)
+item_in_list("squash", list_1) 
 
-
+#This algorithm is also known as the "linear" algorithm
 
 
 
